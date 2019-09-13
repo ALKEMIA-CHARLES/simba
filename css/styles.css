@@ -1,0 +1,32 @@
+body {background-color: orange;
+    background-image: url('/home/charles/Documents/moringa-school-projects/Wildcats/Lions_namibia.jpeg');
+}
+
+.important {
+  color: black;
+}
+.unimportant {
+  color: black;
+}
+.important {
+  color: black;
+}
+.unimportant {
+  color: black;
+}
+.cat-climate {
+  background-color: black;
+}
+  
+h1 {
+    text-align: center
+}
+p {
+    text-align: center
+}
+h2 {
+    text-align: center
+}
+p { 
+    text-align: left
+}
